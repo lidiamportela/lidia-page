@@ -15,7 +15,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px 60px;
+    gap: 20px 60px;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -51,6 +51,7 @@ section {
     background-color: #292929;
     margin: 20px;
     padding: 20px 35px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 section h2, section h3, section h4 {
